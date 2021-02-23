@@ -1,1 +1,3 @@
-Modificacion desde la branch Master
+<<<<<<< HEAD
+
+>>>>>>> branch1
